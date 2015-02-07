@@ -1,0 +1,25 @@
+{
+  "name": "contact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moycs777/contact.git"
+  },
+  "author": "moises",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moycs777/contact/issues"
+  },
+  "homepage": "https://github.com/moycs777/contact",
+  "dependencies": {
+    "body-parser": "^1.11.0",
+    "express": "^4.11.2",
+    "mongojs": "^0.18.1"
+  }
+}
